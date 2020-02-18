@@ -1,0 +1,11 @@
+Package: com.mac-user669.kindastockwp
+Name: KindaStock WP
+Depends: wallpaperloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: KindaStock wallpapers for WallpaperLoader! Created by ConorTheDev
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Author: mac-user669 <cooper@cooperhull.com>
+Section: Wallpaper
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/kindastockwp.json
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.mac-user669.kindastockwp/
